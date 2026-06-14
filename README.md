@@ -7,7 +7,7 @@ Classic "guess the number" web game with a FastAPI backend, proximity-based hint
 The frontend is deployed to GitHub Pages at:
 `https://workflow-223.github.io/number-game/`
 
-**Setup:** In repo Settings → Pages → Source: **Deploy from a branch**, branch: `main`, folder: `/static`.
+**Setup:** In repo Settings → Pages → Source: **Deploy from a branch**, branch: `main`, folder: `/docs`.
 
 Note: The static frontend is deployed. For the full experience including the FastAPI backend, run locally.
 
